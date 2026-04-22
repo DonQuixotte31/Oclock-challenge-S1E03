@@ -4,26 +4,28 @@ Photos / description connecteurs et périphériques
 
 ## Les composants internes
 
+### Ce qui compte c'est la beauté intérieure !
 <img width="3072" height="4438" alt="IMG_20260422_160139" src="https://github.com/user-attachments/assets/4b2a095d-dcd9-45f4-8ad7-dc7ec3a44464" />
 
-L'intérieur du boîtier contient les composants internes. On peut voir le carré lumineux au centre : c'est le watercooling, le système de refroidissement du CPU, lequel est caché juste en-dessous. Le système de refroidissement permet, comme son nom l'indique, de refroidir les composants qui vont monter en température en fonction de l'intensité de l'activité qui leur est demandée.
-Nous avons précédemment mentionné le CPU, c'est l'âme de l'ordinateur. Le CPU est le processeur, qui traite les instructions des programmes et effectue les calculs. Il peut beaucoup chauffer, d'où l'intérêt d'un système de refroidissement efficace comme le WC ou le ventiRAD, puis plus largement dans le boîtier les ventilateurs. Voire même le système D, simplement ouvrir le boîtier (attention dans ce cas précis à bien nettoyer son ordinateur régulièrement !)
-Autre élément visible sur l'image, à droite du WC, en RGB également, les barrettes de RAM. Ici on a 32 Go, répartis en 4 barrettes de 8 Go chacune. La RAM est la mémoire vive de l'ordinateur. C'est elle qui permet de déterminer les actions possibles simultanément. Elle ne conserve les données que lorsque l'ordi est allumé.
-En-dessous, on aperçoit le monstre, la CG. La carte graphique est responsable du rendu et de l'affichage des images, des vidéos et des animations sur l'écran de l'ordinateur.
-Évidemment, sous tout ce joyeux bordel, on a la carte-mère, qui est l'ossature de l'ordinateur et qui regroupe tous les circuits imprimés de l'ordinateur. C'est elle qui va accueillir tous les composants, et par extension tous les périphériques qui vont composer le setup de l'ordinateur.
+L'intérieur du boîtier contient **les composants internes**. On peut voir le carré lumineux au centre : c'est le **watercooling**, le système de refroidissement du **CPU**, lequel est caché juste en-dessous. Le système de refroidissement permet, comme son nom l'indique, de refroidir les composants qui vont monter en température en fonction de l'intensité de l'activité qui leur est demandée.
+Nous avons précédemment mentionné le **CPU**, c'est l'âme de l'ordinateur. Le CPU est le **processeur**, qui traite les instructions des programmes et effectue les calculs. Il peut beaucoup chauffer, d'où l'intérêt d'un système de refroidissement efficace comme le WC ou le **ventiRAD**, puis plus largement dans le **boîtier**, **les ventilateurs**. Voire même le système D, simplement ~~ouvrir le boîtier~~.
+Autre élément visible sur l'image, à droite du WC, en RGB également, les **barrettes de RAM**. Ici on a 32 Go, répartis en 4 barrettes de 8 Go chacune. La RAM est la *mémoire vive* de l'ordinateur. C'est elle qui permet de déterminer les actions possibles simultanément. Elle ne conserve les données que lorsque l'ordi est allumé.
+En-dessous, on aperçoit le monstre, **la CG**. La carte graphique est responsable du rendu et de l'affichage des images, des vidéos et des animations sur l'écran de l'ordinateur.
+Évidemment, sous tout ce joyeux bordel, on a la **carte-mère**, qui est *l'ossature de l'ordinateur* et qui regroupe tous les circuits imprimés de l'ordinateur. C'est elle qui va accueillir tous les composants, et par extension tous les périphériques qui vont composer le setup de l'ordinateur.
 
 
-![Le plus important dans un PC, c'est son alim !](/"C:\Users\ndelm\Pictures\LD0006190989_0006191012.jpg" "Alimentation")
+### Le plus important dans un PC, c'est son alim !
+<img width="705" height="705" alt="LD0006190989_0006191012" src="https://github.com/user-attachments/assets/e7b1fee9-8406-4076-b76a-c9cbfb3bbfa5" />
 
-L'alimentation est essentielle dans un ordinateur. Elle va permettre de pouvoir correctement alimenter en énergie tous les composants de l'ordinateur, la carte-mère (qui en est l'ossature) et faire fonctionner les périphériques. On n'a rien sans alimentation.
+**L'alimentation** est essentielle dans un ordinateur. Elle va permettre de pouvoir correctement alimenter en énergie tous les composants de l'ordinateur, la carte-mère (qui en est l'ossature) et faire fonctionner les périphériques. On n'a rien sans alimentation. Elle est connectée au PC via le port Alimentation et sur secteur également, pour avoir sa source de courant.
 
 ![Pour stocker, il faut un entrepôt ou à défaut, de la ROM](/"C:\Users\ndelm\Pictures\difference-disque-dur-hdd-sdd.jpg" "Disques dur")
 
-Si la RAM permet de conserver les données pendant l'utilisation en direct de la machine, la ROM, ou mémoire morte, permet de la stocker sur le long terme. Ainsi, on utilise des disques durs HDD et SSD pour pouvoir stocker des données. Sachant que le SSD est plus performant et traite l'information plus rapidement que le HDD. On utilise des prises SATA à plugger sur la CM ou alors directement sur la CM en nvme pour le SSD.
+Si la RAM permet de conserver les données pendant l'utilisation en direct de la machine, **la ROM**, ou *mémoire morte*, permet de la stocker sur le long terme. Ainsi, on utilise des **disques durs HDD et SSD** pour pouvoir stocker des données. Sachant que le SSD est plus performant et traite l'information plus rapidement que le HDD. On utilise des prises **SATA** à plugger sur la CM ou alors directement sur la CM en **nvme** pour le SSD.
 
 ## Connectique CM/CG
 
-![C'est parti pour les branchements !](/"C:\Users\ndelm\Pictures\connectique_CM.png" "Connectique")
+![C'est parti pour les branchements !](assets/images/connectique_CM.png "Connectique")
 
 Pour plugger les différents périphériques qui vont venir étendre notre machine, il nous faut des emplacements de connectique. Au dos de la CM, on va pouvoir plugger tout un tas de câbles.
 De gauche à droite : 
