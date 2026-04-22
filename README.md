@@ -1,9 +1,10 @@
+
 # Oclock-challenge-S1E03
 Photos / description connecteurs et périphériques
 
 ## Les composants internes
 
-![Il y a ici un certain nombre de composants internes](/"C:\Users\ndelm\Pictures\IMG_20260422_160139.jpg" "Composants internes")
+<img width="3072" height="4438" alt="IMG_20260422_160139" src="https://github.com/user-attachments/assets/4b2a095d-dcd9-45f4-8ad7-dc7ec3a44464" />
 
 L'intérieur du boîtier contient les composants internes. On peut voir le carré lumineux au centre : c'est le watercooling, le système de refroidissement du CPU, lequel est caché juste en-dessous. Le système de refroidissement permet, comme son nom l'indique, de refroidir les composants qui vont monter en température en fonction de l'intensité de l'activité qui leur est demandée.
 Nous avons précédemment mentionné le CPU, c'est l'âme de l'ordinateur. Le CPU est le processeur, qui traite les instructions des programmes et effectue les calculs. Il peut beaucoup chauffer, d'où l'intérêt d'un système de refroidissement efficace comme le WC ou le ventiRAD, puis plus largement dans le boîtier les ventilateurs. Voire même le système D, simplement ouvrir le boîtier (attention dans ce cas précis à bien nettoyer son ordinateur régulièrement !)
