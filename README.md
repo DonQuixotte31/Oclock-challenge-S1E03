@@ -9,6 +9,7 @@ L'intérieur du boîtier contient les composants internes. On peut voir le carr�
 Nous avons précédemment mentionné le CPU, c'est l'âme de l'ordinateur. Le CPU est le processeur, qui traite les instructions des programmes et effectue les calculs. Il peut beaucoup chauffer, d'où l'intérêt d'un système de refroidissement efficace comme le WC ou le ventiRAD, puis plus largement dans le boîtier les ventilateurs. Voire même le système D, simplement ouvrir le boîtier (attention dans ce cas précis à bien nettoyer son ordinateur régulièrement !)
 Autre élément visible sur l'image, à droite du WC, en RGB également, les barrettes de RAM. Ici on a 32 Go, répartis en 4 barrettes de 8 Go chacune. La RAM est la mémoire vive de l'ordinateur. C'est elle qui permet de déterminer les actions possibles simultanément. Elle ne conserve les données que lorsque l'ordi est allumé.
 En-dessous, on aperçoit le monstre, la CG. La carte graphique est responsable du rendu et de l'affichage des images, des vidéos et des animations sur l'écran de l'ordinateur.
+Évidemment, sous tout ce joyeux bordel, on a la carte-mère, qui est l'ossature de l'ordinateur et qui regroupe tous les circuits imprimés de l'ordinateur. C'est elle qui va accueillir tous les composants, et par extension tous les périphériques qui vont composer le setup de l'ordinateur.
 
 
 ![Le plus important dans un PC, c'est son alim !](/"C:\Users\ndelm\Pictures\LD0006190989_0006191012.jpg" "Alimentation")
@@ -19,7 +20,7 @@ L'alimentation est essentielle dans un ordinateur. Elle va permettre de pouvoir 
 
 Si la RAM permet de conserver les données pendant l'utilisation en direct de la machine, la ROM, ou mémoire morte, permet de la stocker sur le long terme. Ainsi, on utilise des disques durs HDD et SSD pour pouvoir stocker des données. Sachant que le SSD est plus performant et traite l'information plus rapidement que le HDD. On utilise des prises SATA à plugger sur la CM ou alors directement sur la CM en nvme pour le SSD.
 
-## Connectique CM
+## Connectique CM/CG
 
 ![C'est parti pour les branchements !](/"C:\Users\ndelm\Pictures\connectique_CM.png" "Connectique")
 
@@ -27,7 +28,7 @@ Pour plugger les différents périphériques qui vont venir étendre notre machi
 De gauche à droite : 
 La prise PS/2, qui peut permettre de plugger le clavier et la souris.
 En-dessous, deux emplacements USB 2.0, qui permettent de plugger n'importe quel périphérique disposant d'un câble USB-A, que ce soit un câble d'alimentation pour recharger un portable, une souris ou un clavier, une webcam, un contrôleur...
-Ensuite on a les emplacements DisplayPort et HDMI, ce sont les câbles qui vont permettre d'acheminer de la vidéo et du son. En général, c'est ici que l'on va plugger le ou les écrans de l'ordinateur. Le DisplayPort est plus récent et permet une meilleure qualité d'image que le HDMI.
+Ensuite on a les emplacements DisplayPort et HDMI, ce sont les câbles qui vont permettre d'acheminer de la vidéo et du son. En général, c'est ici (sur le dos de la CG) que l'on va plugger le ou les écrans de l'ordinateur. Le DisplayPort est plus récent et permet une meilleure qualité d'image que le HDMI.
 Ensuite, on a la prise 2.5G LAN  qui va permettre de pouvoir plugger un câble RJ45 (ethernet), lequel, une fois connecté à la box internet, va assurer la connexion internet de l'ordinateur.En-dessous, d'autres prises USB 2.0.
 Ensuite, on a des prises USB 3.2 Gen 2 10Gbps (Type-A). En dessous, tu as un port USB 3.2 Gen 2 10Gbps (Type-C).
 Ensuite, on a les emplacements pour les antennes Wifi/Bluetooth.
@@ -37,4 +38,22 @@ Ensuite, on a toutes les prises Jack pour les connecteurs audio.
 
 ![Les plus courants](/"C:\Users\ndelm\Pictures\IMG_20260422_161243.jpg" "Périphériques de base")
 
-On aperçoit ici 
+On aperçoit ici deux écrans d'ordinateurs, câblés en DisplayPort et HDMI sur la CG et branchés sur secteur.
+Au-dessus on a la webcam, câblée en USB-C sur la CM.
+En-dessous, on a le clavier, branché en USB-A, tout comme la souris que l'on aperçoit sur la gauche.
+
+![Fais péter les watts !](/"C:\Users\ndelm\Pictures\IMG_20260422_160333.jpg" "La Sono")
+
+Pour le son, on a un système hi-fi branché en jack et sur secteur pour pouvoir diffuser le son en stéréo.
+
+![Écoute ma voix !](/"C:\Users\ndelm\Pictures\IMG_20260422_160333.jpg" "Le mic")
+
+Le micro pied, branché directement en USB sur la CM, avec également un port XLR pour branchage sur une table de mixage de son.
+
+![Deux en un !](/"C:\Users\ndelm\Pictures\IMG_20260422_160400.jpg" "Le casque")
+
+Pour le son et la voix, on a également la possibilité d'utiliser un micro-casque branché en Jack sur la CM.
+
+![Gaming !](/"C:\Users\ndelm\Pictures\IMG_20260422_160408.jpg" "Le contrôleur")
+
+Enfin, on a le contrôleur, branché en USB-A, qui permet de pouvoir remplacer le clavier et la souris, notamment sur des jeux.
